@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkfastify_website=self.webpackChunkfastify_website||[]).push([[1615],{319:function(e){e.exports=JSON.parse('{"pluginId":"default","version":"v1","label":"v1.x","banner":"unmaintained","badge":true,"className":"docs-version-v1","isLast":false,"docsSidebars":{"version-v1/sidebar":[{"type":"link","label":"Intro","href":"/website-next/docs/v1/"}]}}')}}]);
